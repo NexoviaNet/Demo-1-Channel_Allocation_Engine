@@ -1,0 +1,6 @@
+sku_name,unit_cost,dtc_price,wholesale_price,current_inventory,incoming_inventory,dtc_min,dtc_exp,dtc_max,wh_min,wh_exp,wh_max,wholesale_commitment
+Core Product / SKU A,18,48,30,600,100,180,260,360,140,240,340,180
+Seasonal Best Seller,22,58,36,420,80,160,240,330,90,160,240,120
+Wholesale-Heavy SKU,15,34,24,900,0,120,180,240,260,380,500,300
+Premium DTC SKU,28,84,52,300,50,110,170,250,40,80,130,60
+Slow Mover / Overstock Risk,12,29,18,750,0,40,80,130,30,60,90,40
